@@ -75,7 +75,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/customer360-project.git
+git clone https://github.com/your-Pai-20/customer360-project.git
 cd customer360-project
 Install Dependencies
 
@@ -102,8 +102,8 @@ source_mapping.csv – Source-target mapping with transformation logic
 certification_report.txt – Summary of certification checks
 
 👥 Team Name
-Team Name: C360 Catalysts
-Members: [Replace with actual team names and roles]
+Team Name: Team IntelliAgents
+Members: Harshitha D Pai  H Leyasri
 
 📚 References
 DAMA-DMBOK: Data Management Body of Knowledge
